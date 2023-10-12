@@ -1,6 +1,7 @@
 # ArkosPad Cloud
 <br>
-![grafik](https://github.com/decipher2k/ArkosPad-Cloud/assets/18600621/2f4ca15d-fd58-40c2-9830-237798b50084)
+![grafik](https://github.com/decipher2k/ArkosPad-Cloud/assets/18600621/797d0d74-43cb-44d6-8f51-419138711a7c)
+
 <br>
 <b></b>Setup hosting:</b><br>
 1.) Setup IIS or dotNet linux with Apache hosting on your server<br>
