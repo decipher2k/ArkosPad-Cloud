@@ -1,10 +1,10 @@
 # ArkosPad Cloud
 <br>
-<b></b>Setup hosting:</b><br>
+<b>Setup hosting:</b><br>
 1.) Setup IIS or dotNet linux with Apache hosting on your server<br>
 2.) Install MySQL<br>
 <br>
-<b>Backend (dotNet):</b>b><br>
+<b>Backend (dotNet):</b><br>
 1.) Setup an app in IIS with the endpoint /api or setup dotnet hosting with Kestrel and create a reverse proxy to the /app subdirectory of your wwwroot.<br>
 2.) Copy the content of the file "ArkosPad Cloud - Backend.zip" to the root directory of the dotnet app.<br>
 3.) Edit user.conf and enter the password for the "admin" user.<br>
