@@ -9,7 +9,7 @@ Backend (dotNet):<br>
 2.) Copy the content of the file "ArkosPad Cloud - Backend.zip" to the root directory of the dotnet app.<br>
 3.) Edit user.conf and enter the password for the "admin" user.<br>
 4.) Edit db.settings.conf and enter the MySQL connection string. The MySQL user has got to have the rights to create tables.<br>
-5.) run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
+5.) Run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
 <br>
 Frontend (Node.js):<br>
 1.)  Copy contents of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
