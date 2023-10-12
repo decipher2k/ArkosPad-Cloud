@@ -12,7 +12,7 @@ Backend (dotNet):<br>
 5.) Run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
 <br>
 Frontend (Node.js):<br>
-1.)  Copy contents of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
+1.) Copy the content of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
 2.) Create rewrite rules for the Angular app.<br>
 3.) Edit ./assets/config.json to match your hostname.
 <br><br>
