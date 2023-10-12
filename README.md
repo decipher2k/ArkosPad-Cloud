@@ -16,5 +16,5 @@
 2.) Create rewrite rules for the Angular app.<br>
 3.) Edit ./assets/config.json to match your hostname.
 <br><br>
-Caveats:<br>
+<b>Caveats:</b><br>
 -Currently only single user mode ("admin"), until the usermanagement has been repaired.
