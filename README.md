@@ -1,6 +1,6 @@
 # ArkosPad Cloud
 <br>
-![grafik](https://github.com/decipher2k/ArkosPad-Cloud/assets/18600621/797d0d74-43cb-44d6-8f51-419138711a7c)
+![image](https://github.com/decipher2k/ArkosPad-Cloud/assets/18600621/797d0d74-43cb-44d6-8f51-419138711a7c)
 
 <br>
 <b></b>Setup hosting:</b><br>
