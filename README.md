@@ -6,7 +6,7 @@ Setup hosting:<br>
 <br>
 Backend (dotNet):<br>
 1.) Setup an app in IIS with the endpoint /api or setup dotnet hosting with Kestrel and create a reverse proxy to the /app subdirectory of your wwwroot.<br>
-2.) Copy contents of the file "ArkosPad Cloud - Backend.zip" to the root directory of the dotnet app.<br>
+2.) Copy the contents of the file "ArkosPad Cloud - Backend.zip" to the root directory of the dotnet app.<br>
 3.) Edit user.conf and enter the password for the "admin" user.<br>
 4.) Edit db.settings.conf and enter the MySQL connection string. The MySQL user has got to have the rights to create tables.<br>
 5.) run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
