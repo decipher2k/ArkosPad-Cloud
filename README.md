@@ -3,7 +3,7 @@
 Setup hosting:<br>
 1.) Setup IIS or dotNet linux with Apache hosting on your server<br>
 2.) Install MySQL<br>
-
+<br>
 Backend (dotNet):<br>
 4.) Setup an app in IIS with the endpoint /api or setup dotnet hosting with Kestrel and create a reverse proxy to the /app subdirectory of your wwwroot.<br>
 5.) Copy contents of the file "ArkosPad Cloud - Backend.zip" to the root directory of the dotnet app.<br>
