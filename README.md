@@ -15,3 +15,6 @@ Frontend(Node.js):<br>
 1.)  Copy contents of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
 2.) Create rewrite rules for the Angular app.<br>
 3.) Edit ./assets/config.json to match your hostname.
+<br><br>
+Caveats:<br>
+-Currently only single user mode ("admin"), until the usermanagement has been repaired.
