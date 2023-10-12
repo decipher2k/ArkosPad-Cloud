@@ -11,7 +11,7 @@ Backend (dotNet):<br>
 4.) Edit db.settings.conf and enter the MySQL connection string. The MySQL user has got to have the rights to create tables.<br>
 5.) run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
 <br>
-Frontend(Node.js):<br>
+Frontend (Node.js):<br>
 1.)  Copy contents of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
 2.) Create rewrite rules for the Angular app.<br>
 3.) Edit ./assets/config.json to match your hostname.
