@@ -1,8 +1,5 @@
 # ArkosPad Cloud
 <br>
-![image](https://github.com/decipher2k/ArkosPad-Cloud/assets/18600621/797d0d74-43cb-44d6-8f51-419138711a7c)
-
-<br>
 <b></b>Setup hosting:</b><br>
 1.) Setup IIS or dotNet linux with Apache hosting on your server<br>
 2.) Install MySQL<br>
