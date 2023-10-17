@@ -1,7 +1,7 @@
 # ArkosPad Cloud
 <br>
 <b>Setup hosting:</b><br>
-1.) Setup IIS or dotNet linux with Apache hosting on your server<br>
+1.) Setup IIS or dotNet Linux with Apache hosting on your server<br>
 2.) Install MySQL<br>
 <br>
 <b>Backend (dotNet):</b><br>
@@ -11,7 +11,7 @@
 4.) Edit db.settings.conf and enter the MySQL connection string. The MySQL user has got to have the rights to create tables.<br>
 5.) Run https://-hostname-/api/Install/Install to initialize the database and setup the admin user.<br>
 <br>
-<b>Frontend (Node.js):</b>b><br>
+<b>Frontend (Node.js):</b><br>
 1.) Copy the content of the file "ArkosPad Cloud - Fronted.zip" to your wwwroot.<br>
 2.) Create rewrite rules for the Angular app.<br>
 3.) Edit ./assets/config.json to match your hostname.
